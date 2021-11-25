@@ -1,0 +1,8 @@
+# Temporary files
+*~
+
+# Gradle service files
+.gradle
+
+# Build files
+test_project/build
