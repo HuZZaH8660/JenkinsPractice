@@ -2,7 +2,7 @@
 *~*
 
 # Gradle service files
-test_project/.gradle/
+.gradle/
 
 # Build files
-test_project/build/
+build/
