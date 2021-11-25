@@ -1,8 +1,8 @@
 # Temporary files
-*~
+*~*
 
 # Gradle service files
-.gradle
+test_project/.gradle/
 
 # Build files
-test_project/build
+test_project/build/
